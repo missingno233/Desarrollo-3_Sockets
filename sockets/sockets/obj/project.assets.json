@@ -1604,11 +1604,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gaelg\\source\\repos\\prueba\\sockets\\sockets\\sockets.csproj",
+      "projectUniqueName": "C:\\Users\\gaelg\\OneDrive\\Documentos\\GitHub\\Desarrollo-3_Sockets\\sockets\\sockets\\sockets.csproj",
       "projectName": "sockets",
-      "projectPath": "C:\\Users\\gaelg\\source\\repos\\prueba\\sockets\\sockets\\sockets.csproj",
+      "projectPath": "C:\\Users\\gaelg\\OneDrive\\Documentos\\GitHub\\Desarrollo-3_Sockets\\sockets\\sockets\\sockets.csproj",
       "packagesPath": "C:\\Users\\gaelg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gaelg\\source\\repos\\prueba\\sockets\\sockets\\obj\\",
+      "outputPath": "C:\\Users\\gaelg\\OneDrive\\Documentos\\GitHub\\Desarrollo-3_Sockets\\sockets\\sockets\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1671,7 +1671,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

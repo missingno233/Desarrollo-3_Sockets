@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gaelg\\source\\repos\\prueba\\sockets\\",
+  "WorkspaceRootPath": "C:\\Users\\gaelg\\OneDrive\\Documentos\\GitHub\\Desarrollo-3_Sockets\\sockets\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D72F1D1A-79FE-4B38-9E0B-6ABCAA565AA2}|sockets\\sockets.csproj|c:\\users\\gaelg\\source\\repos\\prueba\\sockets\\sockets\\models\\conexi\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D72F1D1A-79FE-4B38-9E0B-6ABCAA565AA2}|sockets\\sockets.csproj|c:\\users\\gaelg\\onedrive\\documentos\\github\\desarrollo-3_sockets\\sockets\\sockets\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72F1D1A-79FE-4B38-9E0B-6ABCAA565AA2}|sockets\\sockets.csproj|solutionrelative:sockets\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72F1D1A-79FE-4B38-9E0B-6ABCAA565AA2}|sockets\\sockets.csproj|c:\\users\\gaelg\\onedrive\\documentos\\github\\desarrollo-3_sockets\\sockets\\sockets\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72F1D1A-79FE-4B38-9E0B-6ABCAA565AA2}|sockets\\sockets.csproj|solutionrelative:sockets\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72F1D1A-79FE-4B38-9E0B-6ABCAA565AA2}|sockets\\sockets.csproj|c:\\users\\gaelg\\onedrive\\documentos\\github\\desarrollo-3_sockets\\sockets\\sockets\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D72F1D1A-79FE-4B38-9E0B-6ABCAA565AA2}|sockets\\sockets.csproj|solutionrelative:sockets\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72F1D1A-79FE-4B38-9E0B-6ABCAA565AA2}|sockets\\sockets.csproj|c:\\users\\gaelg\\onedrive\\documentos\\github\\desarrollo-3_sockets\\sockets\\sockets\\ventanalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D72F1D1A-79FE-4B38-9E0B-6ABCAA565AA2}|sockets\\sockets.csproj|solutionrelative:sockets\\ventanalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72F1D1A-79FE-4B38-9E0B-6ABCAA565AA2}|sockets\\sockets.csproj|c:\\users\\gaelg\\onedrive\\documentos\\github\\desarrollo-3_sockets\\sockets\\sockets\\models\\conexi\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D72F1D1A-79FE-4B38-9E0B-6ABCAA565AA2}|sockets\\sockets.csproj|solutionrelative:sockets\\models\\conexi\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D72F1D1A-79FE-4B38-9E0B-6ABCAA565AA2}|sockets\\sockets.csproj|c:\\users\\gaelg\\source\\repos\\prueba\\sockets\\sockets\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D72F1D1A-79FE-4B38-9E0B-6ABCAA565AA2}|sockets\\sockets.csproj|solutionrelative:sockets\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D72F1D1A-79FE-4B38-9E0B-6ABCAA565AA2}|sockets\\sockets.csproj|c:\\users\\gaelg\\onedrive\\documentos\\github\\desarrollo-3_sockets\\sockets\\sockets\\ventanalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72F1D1A-79FE-4B38-9E0B-6ABCAA565AA2}|sockets\\sockets.csproj|solutionrelative:sockets\\ventanalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +34,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Conexi\u00F3n.cs",
-              "DocumentMoniker": "C:\\Users\\gaelg\\source\\repos\\prueba\\sockets\\sockets\\Models\\Conexi\u00F3n.cs",
-              "RelativeDocumentMoniker": "sockets\\Models\\Conexi\u00F3n.cs",
-              "ToolTip": "C:\\Users\\gaelg\\source\\repos\\prueba\\sockets\\sockets\\Models\\Conexi\u00F3n.cs",
-              "RelativeToolTip": "sockets\\Models\\Conexi\u00F3n.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAcwAAAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gaelg\\OneDrive\\Documentos\\GitHub\\Desarrollo-3_Sockets\\sockets\\sockets\\Form1.cs",
+              "RelativeDocumentMoniker": "sockets\\Form1.cs",
+              "ToolTip": "C:\\Users\\gaelg\\OneDrive\\Documentos\\GitHub\\Desarrollo-3_Sockets\\sockets\\sockets\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "sockets\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T06:47:35.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T17:16:16.652Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gaelg\\source\\repos\\prueba\\sockets\\sockets\\Form1.cs",
-              "RelativeDocumentMoniker": "sockets\\Form1.cs",
-              "ToolTip": "C:\\Users\\gaelg\\source\\repos\\prueba\\sockets\\sockets\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "sockets\\Form1.cs [Dise\u00F1o]",
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gaelg\\OneDrive\\Documentos\\GitHub\\Desarrollo-3_Sockets\\sockets\\sockets\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "sockets\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\gaelg\\OneDrive\\Documentos\\GitHub\\Desarrollo-3_Sockets\\sockets\\sockets\\Form1.Designer.cs",
+              "RelativeToolTip": "sockets\\Form1.Designer.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAD4v2UAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T03:36:04.389Z",
+              "WhenOpened": "2025-11-24T16:51:10.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gaelg\\OneDrive\\Documentos\\GitHub\\Desarrollo-3_Sockets\\sockets\\sockets\\Form1.cs",
+              "RelativeDocumentMoniker": "sockets\\Form1.cs",
+              "ToolTip": "C:\\Users\\gaelg\\OneDrive\\Documentos\\GitHub\\Desarrollo-3_Sockets\\sockets\\sockets\\Form1.cs",
+              "RelativeToolTip": "sockets\\Form1.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAA4wAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:50:55.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VentanaLog.cs",
+              "DocumentMoniker": "C:\\Users\\gaelg\\OneDrive\\Documentos\\GitHub\\Desarrollo-3_Sockets\\sockets\\sockets\\VentanaLog.cs",
+              "RelativeDocumentMoniker": "sockets\\VentanaLog.cs",
+              "ToolTip": "C:\\Users\\gaelg\\OneDrive\\Documentos\\GitHub\\Desarrollo-3_Sockets\\sockets\\sockets\\VentanaLog.cs",
+              "RelativeToolTip": "sockets\\VentanaLog.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:40:57.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VentanaLog.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gaelg\\OneDrive\\Documentos\\GitHub\\Desarrollo-3_Sockets\\sockets\\sockets\\VentanaLog.cs",
+              "RelativeDocumentMoniker": "sockets\\VentanaLog.cs",
+              "ToolTip": "C:\\Users\\gaelg\\OneDrive\\Documentos\\GitHub\\Desarrollo-3_Sockets\\sockets\\sockets\\VentanaLog.cs [Dise\u00F1o]",
+              "RelativeToolTip": "sockets\\VentanaLog.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:40:48.272Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conexi\u00F3n.cs",
+              "DocumentMoniker": "C:\\Users\\gaelg\\OneDrive\\Documentos\\GitHub\\Desarrollo-3_Sockets\\sockets\\sockets\\Models\\Conexi\u00F3n.cs",
+              "RelativeDocumentMoniker": "sockets\\Models\\Conexi\u00F3n.cs",
+              "ToolTip": "C:\\Users\\gaelg\\OneDrive\\Documentos\\GitHub\\Desarrollo-3_Sockets\\sockets\\sockets\\Models\\Conexi\u00F3n.cs",
+              "RelativeToolTip": "sockets\\Models\\Conexi\u00F3n.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAcwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:47:35.899Z",
+              "EditorCaption": ""
             }
           ]
         }

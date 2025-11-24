@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hI66XCjJe7k=",
+  "dgSpecHash": "IfEXMohlX28=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gaelg\\source\\repos\\prueba\\sockets\\sockets\\sockets.csproj",
+  "projectFilePath": "C:\\Users\\gaelg\\OneDrive\\Documentos\\GitHub\\Desarrollo-3_Sockets\\sockets\\sockets\\sockets.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gaelg\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\gaelg\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

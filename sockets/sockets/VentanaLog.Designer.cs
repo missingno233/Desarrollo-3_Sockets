@@ -90,6 +90,7 @@
             btnIniciar.TabIndex = 5;
             btnIniciar.Text = "Iniciar Sesión";
             btnIniciar.UseVisualStyleBackColor = true;
+            btnIniciar.Click += btnIniciar_Click;
             // 
             // VentanaLog
             // 
@@ -103,7 +104,6 @@
             Controls.Add(pictureBox2);
             Controls.Add(pictureBox1);
             Name = "VentanaLog";
-            Load += this.VentanaLog_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
